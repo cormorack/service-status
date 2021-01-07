@@ -4,19 +4,9 @@ repo: service-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Production Metadata API Service
+    url: https://api.interactiveoceans.washington.edu/metadata/status
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -25,8 +15,8 @@ status-website:
   baseUrl: /service-status # where "repo" is your repository name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CAVA Services Status
-  introTitle: "**Welcome** to CAVA uptime monitor and status page, powered entirely by GitHub!"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Welcome** to CAVA Status Page"
+  introMessage: This is an uptime monitor and status page, powered entirely by GitHub!
   navbar:
     - title: Status
       href: /

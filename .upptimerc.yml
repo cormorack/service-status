@@ -4,16 +4,39 @@ repo: service-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Production Metadata API Service
+  - name: Interactive Oceans Website
+    url: https://interactiveoceans.washington.edu
+    maxResponseTime: 5000
+    assignees:
+      - sdthomas69
+  - name: Interactive Oceans Data Portal
+    url: https://app.interactiveoceans.washington.edu
+    maxResponseTime: 5000
+    assignees:
+      - lsetiawan
+      - dwinasolihin
+  - name: Metadata API Service
     url: https://api.interactiveoceans.washington.edu/metadata/status
     maxResponseTime: 5000
+    assignees:
+      - lsetiawan
+  - name: Data API Service
+    url: https://api.interactiveoceans.washington.edu/data/status
+    maxResponseTime: 5000
+    assignees:
+      - lsetiawan
+  - name: Media API Service
+    url: https://api.interactiveoceans.washington.edu/media
+    maxResponseTime: 5000
+    assignees:
+      - sdthomas69
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /service-status # where "repo" is your repository name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://s3.us-west-2.amazonaws.com/media.ooica.net/wp-content/uploads/2019/02/07214108/ooi-rsn-logo.png
   name: CAVA Services Status
   introTitle: "**Welcome** to CAVA Status Page"
   introMessage: This is an uptime monitor and status page, powered entirely by GitHub!

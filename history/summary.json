@@ -58,9 +58,9 @@
     "url": "https://api.interactiveoceans.washington.edu/data/status",
     "icon": "https://favicons.githubusercontent.com/api.interactiveoceans.washington.edu",
     "slug": "data-api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 80,
     "timeMonth": 78,
     "timeYear": 78,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-10": 0
+    }
   },
   {
     "name": "Media API Service",

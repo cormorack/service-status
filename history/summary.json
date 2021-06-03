@@ -81,17 +81,17 @@
     "url": "https://api.interactiveoceans.washington.edu/media",
     "icon": "https://favicons.githubusercontent.com/api.interactiveoceans.washington.edu",
     "slug": "media-api-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 15,
-    "timeWeek": 39,
-    "timeMonth": 54,
-    "timeYear": 159,
+    "time": 160,
+    "timeDay": 133,
+    "timeWeek": 66,
+    "timeMonth": 60,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   }
 ]

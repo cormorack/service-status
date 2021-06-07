@@ -40,9 +40,9 @@
     "url": "https://api.interactiveoceans.washington.edu/metadata/status",
     "icon": "https://favicons.githubusercontent.com/api.interactiveoceans.washington.edu",
     "slug": "metadata-api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -52,6 +52,7 @@
     "timeMonth": 366,
     "timeYear": 428,
     "dailyMinutesDown": {
+      "2021-06-07": 0,
       "2021-05-05": 22
     }
   },
@@ -60,9 +61,9 @@
     "url": "https://api.interactiveoceans.washington.edu/data/status",
     "icon": "https://favicons.githubusercontent.com/api.interactiveoceans.washington.edu",
     "slug": "data-api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -72,6 +73,7 @@
     "timeMonth": 53,
     "timeYear": 81,
     "dailyMinutesDown": {
+      "2021-06-07": 0,
       "2021-05-05": 22,
       "2021-02-10": 17
     }
@@ -81,9 +83,9 @@
     "url": "https://api.interactiveoceans.washington.edu/media",
     "icon": "https://favicons.githubusercontent.com/api.interactiveoceans.washington.edu",
     "slug": "media-api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,6 +94,8 @@
     "timeWeek": 162,
     "timeMonth": 82,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-07": 0
+    }
   }
 ]

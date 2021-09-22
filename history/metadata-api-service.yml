@@ -1,7 +1,7 @@
 url: https://api.interactiveoceans.washington.edu/metadata/status
-status: down
-code: 404
-responseTime: 410
-lastUpdated: 2021-09-22T07:22:39.344Z
+status: up
+code: 200
+responseTime: 395
+lastUpdated: 2021-09-22T07:30:33.520Z
 startTime: Thu Jan 07 2021 01:06:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

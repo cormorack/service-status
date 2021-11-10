@@ -4,19 +4,19 @@
     "url": "https://interactiveoceans.washington.edu",
     "icon": "https://favicons.githubusercontent.com/interactiveoceans.washington.edu",
     "slug": "interactive-oceans-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 105,
-    "timeWeek": 426,
-    "timeMonth": 614,
-    "timeYear": 673,
+    "time": 672,
+    "timeDay": 102,
+    "timeWeek": 385,
+    "timeMonth": 598,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2021-11-10": 0
+      "2021-11-10": 7
     }
   },
   {

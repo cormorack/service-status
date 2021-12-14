@@ -4,9 +4,9 @@
     "url": "https://interactiveoceans.washington.edu",
     "icon": "https://favicons.githubusercontent.com/interactiveoceans.washington.edu",
     "slug": "interactive-oceans-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 599,
     "timeMonth": 612,
     "timeYear": 668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 0
+    }
   },
   {
     "name": "Interactive Oceans Data Portal",
@@ -69,11 +71,11 @@
     "icon": "https://favicons.githubusercontent.com/api.interactiveoceans.washington.edu",
     "slug": "data-api-service",
     "status": "up",
-    "uptime": "72.74%",
+    "uptime": "72.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.79%",
     "uptimeMonth": "97.88%",
-    "uptimeYear": "72.74%",
+    "uptimeYear": "72.76%",
     "time": 90,
     "timeDay": 81,
     "timeWeek": 65,

@@ -1,7 +1,7 @@
-url: https://api.interactiveoceans.washington.edu/media
+url: https://api.ooica.net/media
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-05T23:04:00.142Z
+code: 404
+responseTime: 38
+lastUpdated: 2022-06-06T21:39:07.459Z
 startTime: Thu Jan 07 2021 01:06:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

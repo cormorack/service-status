@@ -16,17 +16,17 @@ sites:
       - lsetiawan
       - dwinasolihin
   - name: Metadata API Service
-    url: https://api.interactiveoceans.washington.edu/metadata/status
+    url: https://api.ooica.net/metadata/status
     maxResponseTime: 5000
     assignees:
       - lsetiawan
   - name: Data API Service
-    url: https://api.interactiveoceans.washington.edu/data/status
+    url: https://api.ooica.net/data/status
     maxResponseTime: 5000
     assignees:
       - lsetiawan
   - name: Media API Service
-    url: https://api.interactiveoceans.washington.edu/media
+    url: https://api.ooica.net/media
     maxResponseTime: 5000
     assignees:
       - sdthomas69

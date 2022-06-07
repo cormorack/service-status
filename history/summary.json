@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 832,
-    "timeWeek": 791,
-    "timeMonth": 659,
-    "timeYear": 619,
+    "time": 629,
+    "timeDay": 841,
+    "timeWeek": 628,
+    "timeMonth": 658,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2021-12-15": 24
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 172,
-    "timeWeek": 219,
-    "timeMonth": 232,
+    "timeDay": 181,
+    "timeWeek": 225,
+    "timeMonth": 233,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -44,14 +44,14 @@
     "slug": "metadata-api-service",
     "status": "up",
     "uptime": "96.46%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.01%",
+    "uptimeDay": "10.81%",
+    "uptimeWeek": "1.54%",
     "uptimeMonth": "60.01%",
     "uptimeYear": "95.00%",
     "time": 360,
-    "timeDay": 196,
-    "timeWeek": 196,
-    "timeMonth": 354,
+    "timeDay": 307,
+    "timeWeek": 307,
+    "timeMonth": 351,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2022-06-06": 1299,
@@ -75,8 +75,7 @@
       "2021-11-05": 1360,
       "2021-09-20": 1040,
       "2021-09-19": 1440,
-      "2021-09-18": 800,
-      "2021-06-07": 19
+      "2021-09-18": 800
     }
   },
   {
@@ -86,15 +85,15 @@
     "slug": "data-api-service",
     "status": "up",
     "uptime": "79.61%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "10.79%",
+    "uptimeWeek": "1.54%",
     "uptimeMonth": "60.01%",
     "uptimeYear": "71.19%",
-    "time": 101,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 63,
-    "timeYear": 106,
+    "time": 107,
+    "timeDay": 1444,
+    "timeWeek": 1444,
+    "timeMonth": 194,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2022-06-06": 1299,
       "2022-06-05": 1440,
@@ -207,8 +206,7 @@
       "2021-07-03": 1440,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
-      "2021-06-30": 239,
-      "2021-06-07": 19
+      "2021-06-30": 239
     }
   },
   {
@@ -217,18 +215,19 @@
     "icon": "https://favicons.githubusercontent.com/api.ooica.net",
     "slug": "media-api-service",
     "status": "down",
-    "uptime": "97.19%",
+    "uptime": "97.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.01%",
-    "uptimeYear": "96.03%",
-    "time": 224,
-    "timeDay": 38,
-    "timeWeek": 38,
-    "timeMonth": 212,
+    "uptimeMonth": "59.66%",
+    "uptimeYear": "96.00%",
+    "time": 223,
+    "timeDay": 64,
+    "timeWeek": 64,
+    "timeMonth": 205,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2022-06-06": 1300,
+      "2022-06-07": 15,
+      "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
       "2022-06-03": 1440,
@@ -245,8 +244,7 @@
       "2021-12-15": 22,
       "2021-09-20": 1040,
       "2021-09-19": 1440,
-      "2021-09-18": 800,
-      "2021-06-07": 19
+      "2021-09-18": 800
     }
   }
 ]

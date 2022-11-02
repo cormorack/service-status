@@ -40,6 +40,7 @@ status-website:
   name: CAVA Services Status
   introTitle: "**Welcome** to CAVA Status Page"
   introMessage: This is an uptime monitor and status page, powered entirely by GitHub!
+  theme: dark
   navbar:
     - title: Status
       href: /

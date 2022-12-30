@@ -9,31 +9,43 @@ sites:
     maxResponseTime: 5000
     assignees:
       - sdthomas69
+      - mvardaro
   - name: Interactive Oceans Data Portal
     url: https://app.interactiveoceans.washington.edu
     maxResponseTime: 5000
     assignees:
-      - lsetiawan
+      - sdthomas69
       - dwinasolihin
+      - mvardaro
   - name: Metadata API Service
     url: https://api.ooica.net/metadata/status
     maxResponseTime: 5000
     assignees:
-      - lsetiawan
+      - mvardaro
+      - sdthomas69
   - name: Data API Service
     url: https://api.ooica.net/data/status
     maxResponseTime: 5000
     assignees:
-      - lsetiawan
+      - mvardaro
+      - sdthomas69
   - name: Media API Service
     url: https://api.ooica.net/media/
     maxResponseTime: 5000
     assignees:
+      - mvardaro
+      - sdthomas69
+  - name: Realtime Websocket API Service
+    url: https://apiws.ooica.net/realtime/healthz
+    maxResponseTime: 5000
+    assignees:
+      - mvardaro
       - sdthomas69
   - name: Realtime Client API Service
     url: https://api.ooica.net/feed/status
     maxResponseTime: 5000
     assignees:
+      - mvardaro
       - sdthomas69
 
 status-website:

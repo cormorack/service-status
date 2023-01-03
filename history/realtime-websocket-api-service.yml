@@ -1,7 +1,7 @@
 url: https://apiws.ooica.net/realtime/healthz
 status: up
 code: 200
-responseTime: 303
-lastUpdated: 2023-01-02T23:04:06.777Z
+responseTime: 150
+lastUpdated: 2023-01-03T23:04:15.299Z
 startTime: Fri Dec 30 2022 21:38:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://api.ooica.net/metadata/status
-status: up
-code: 200
-responseTime: 302
-lastUpdated: 2023-09-13T23:03:50.857Z
+status: down
+code: 404
+responseTime: 415
+lastUpdated: 2023-09-14T22:53:47.962Z
 startTime: 2021-01-07T01:06:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>

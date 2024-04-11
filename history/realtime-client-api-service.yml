@@ -1,7 +1,7 @@
 url: https://api.ooica.net/feed/status
-status: down
-code: 503
-responseTime: 80
-lastUpdated: 2024-04-11T21:29:20.446Z
+status: up
+code: 200
+responseTime: 84
+lastUpdated: 2024-04-11T21:36:29.140Z
 startTime: 2022-12-07T20:39:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>

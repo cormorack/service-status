@@ -35,6 +35,12 @@ sites:
     assignees:
       - mvardaro
       - sdthomas69
+  - name: New Media API Service
+    url: https://interactiveoceans.washington.edu:8080/media/
+    maxResponseTime: 5000
+    assignees:
+      - mvardaro
+      - sdthomas69
   - name: Realtime Websocket API Service
     url: https://apiws.ooica.net/realtime/healthz
     maxResponseTime: 5000

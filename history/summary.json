@@ -108,9 +108,9 @@
     "url": "https://interactiveoceans.washington.edu:8080/media/",
     "icon": "https://icons.duckduckgo.com/ip3/interactiveoceans.washington.edu.ico",
     "slug": "new-media-api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,7 +119,9 @@
     "timeWeek": 424,
     "timeMonth": 384,
     "timeYear": 366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-17": 0
+    }
   },
   {
     "name": "Realtime Websocket API Service",
@@ -127,7 +129,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apiws.ooica.net.ico",
     "slug": "realtime-websocket-api-service",
     "status": "up",
-    "uptime": "47.98%",
+    "uptime": "48.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",

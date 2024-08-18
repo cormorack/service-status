@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
-    "timeDay": 954,
-    "timeWeek": 761,
-    "timeMonth": 692,
-    "timeYear": 635,
+    "timeDay": 592,
+    "timeWeek": 788,
+    "timeMonth": 706,
+    "timeYear": 634,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 129,
-    "timeWeek": 336,
-    "timeMonth": 310,
+    "timeDay": 218,
+    "timeWeek": 321,
+    "timeMonth": 311,
     "timeYear": 248,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 353,
-    "timeDay": 170,
-    "timeWeek": 1445,
-    "timeMonth": 584,
-    "timeYear": 356,
+    "timeDay": 302,
+    "timeWeek": 1446,
+    "timeMonth": 590,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2024-08-14": 31,
       "2023-09-14": 47
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2565,
-    "timeDay": 3047,
-    "timeWeek": 1906,
-    "timeMonth": 2354,
-    "timeYear": 2576,
+    "timeDay": 127,
+    "timeWeek": 1499,
+    "timeMonth": 2357,
+    "timeYear": 2567,
     "dailyMinutesDown": {}
   },
   {
@@ -86,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 239,
-    "timeDay": 89,
-    "timeWeek": 1402,
-    "timeMonth": 464,
+    "timeDay": 143,
+    "timeWeek": 1400,
+    "timeMonth": 465,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2023-09-14": 47
@@ -100,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/interactiveoceans.washington.edu.ico",
     "slug": "new-media-api-service",
     "status": "down",
-    "uptime": "58.16%",
+    "uptime": "57.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.16%",
+    "uptimeYear": "57.59%",
     "time": 416,
     "timeDay": 0,
-    "timeWeek": 859,
-    "timeMonth": 515,
+    "timeWeek": 930,
+    "timeMonth": 526,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2024-08-11": 3891,
@@ -126,7 +126,8 @@
       "2024-08-14": 1614,
       "2024-08-13": 2880,
       "2024-08-12": 2880,
-      "2024-08-17": 19,
+      "2024-08-18": 21,
+      "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-06-17": 286
@@ -138,15 +139,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/apiws.ooica.net.ico",
     "slug": "realtime-websocket-api-service",
     "status": "up",
-    "uptime": "53.31%",
+    "uptime": "53.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.84%",
+    "uptimeYear": "28.11%",
     "time": 257,
-    "timeDay": 113,
-    "timeWeek": 309,
-    "timeMonth": 299,
+    "timeDay": 333,
+    "timeWeek": 319,
+    "timeMonth": 306,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2024-05-06": 578,
@@ -409,8 +410,7 @@
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
-      "2023-08-20": 1440,
-      "2023-08-19": 1440
+      "2023-08-20": 1440
     }
   },
   {
@@ -425,10 +425,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 31,
-    "timeWeek": 94,
-    "timeMonth": 89,
-    "timeYear": 131,
+    "timeDay": 95,
+    "timeWeek": 93,
+    "timeMonth": 91,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   }
 ]

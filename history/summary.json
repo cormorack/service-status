@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 434,
-    "timeWeek": 819,
-    "timeMonth": 840,
-    "timeYear": 643,
+    "time": 670,
+    "timeDay": 295,
+    "timeWeek": 835,
+    "timeMonth": 829,
+    "timeYear": 642,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 283,
-    "timeWeek": 250,
-    "timeMonth": 294,
-    "timeYear": 252,
+    "timeDay": 362,
+    "timeWeek": 271,
+    "timeMonth": 288,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -47,13 +47,12 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 351,
-    "timeDay": 259,
-    "timeWeek": 307,
-    "timeMonth": 583,
+    "timeDay": 371,
+    "timeWeek": 337,
+    "timeMonth": 585,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2024-08-14": 31,
-      "2023-09-14": 47
+      "2024-08-14": 31
     }
   },
   {
@@ -62,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ooica.net.ico",
     "slug": "data-api-service",
     "status": "up",
-    "uptime": "92.17%",
+    "uptime": "92.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2576,
-    "timeDay": 116,
-    "timeWeek": 1859,
-    "timeMonth": 2143,
-    "timeYear": 2572,
+    "time": 2570,
+    "timeDay": 82,
+    "timeWeek": 1397,
+    "timeMonth": 2141,
+    "timeYear": 2564,
     "dailyMinutesDown": {}
   },
   {
@@ -86,13 +85,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 144,
-    "timeWeek": 149,
-    "timeMonth": 748,
+    "timeDay": 120,
+    "timeWeek": 153,
+    "timeMonth": 743,
     "timeYear": 271,
-    "dailyMinutesDown": {
-      "2023-09-14": 47
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "New Media API Service",
@@ -100,16 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/interactiveoceans.washington.edu.ico",
     "slug": "new-media-api-service",
     "status": "up",
-    "uptime": "58.32%",
+    "uptime": "58.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.54%",
-    "uptimeYear": "58.32%",
-    "time": 441,
-    "timeDay": 328,
-    "timeWeek": 320,
-    "timeMonth": 628,
-    "timeYear": 441,
+    "uptimeMonth": "48.11%",
+    "uptimeYear": "58.65%",
+    "time": 440,
+    "timeDay": 251,
+    "timeWeek": 332,
+    "timeMonth": 620,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2024-08-11": 3891,
       "2024-08-10": 4320,
@@ -148,15 +145,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/apiws.ooica.net.ico",
     "slug": "realtime-websocket-api-service",
     "status": "up",
-    "uptime": "55.26%",
+    "uptime": "55.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.96%",
-    "time": 263,
-    "timeDay": 258,
-    "timeWeek": 276,
-    "timeMonth": 301,
+    "uptimeYear": "35.24%",
+    "time": 264,
+    "timeDay": 307,
+    "timeWeek": 297,
+    "timeMonth": 299,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2024-05-06": 578,
@@ -393,8 +390,7 @@
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
-      "2023-09-15": 1440,
-      "2023-09-14": 1440
+      "2023-09-15": 1440
     }
   },
   {
@@ -409,9 +405,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 119,
-    "timeWeek": 89,
-    "timeMonth": 87,
+    "timeDay": 56,
+    "timeWeek": 91,
+    "timeMonth": 85,
     "timeYear": 132,
     "dailyMinutesDown": {}
   }

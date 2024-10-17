@@ -1,7 +1,7 @@
 url: https://api.ooica.net/metadata/status
-status: degraded
+status: up
 code: 200
-responseTime: 9784
-lastUpdated: 2024-10-17T22:06:17.583Z
+responseTime: 141
+lastUpdated: 2024-10-17T22:16:40.460Z
 startTime: 2021-01-07T01:06:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>

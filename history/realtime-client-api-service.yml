@@ -1,7 +1,7 @@
 url: https://api.ooica.net/feed/status
-status: degraded
+status: up
 code: 200
-responseTime: 17081
-lastUpdated: 2024-10-21T17:47:20.831Z
+responseTime: 105
+lastUpdated: 2024-10-21T17:53:51.646Z
 startTime: 2022-12-07T20:39:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>

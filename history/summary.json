@@ -361,19 +361,19 @@
     "url": "https://api.ooica.net/feed/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.ooica.net.ico",
     "slug": "realtime-client-api-service",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 8597,
-    "timeWeek": 2210,
-    "timeMonth": 883,
+    "timeDay": 5766,
+    "timeWeek": 1976,
+    "timeMonth": 860,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-10-21": 0
+      "2024-10-21": 7
     }
   }
 ]

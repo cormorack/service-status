@@ -78,18 +78,20 @@
     "url": "https://api.ooica.net/media/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ooica.net.ico",
     "slug": "media-api-service",
-    "status": "up",
+    "status": "degraded",
     "uptime": "95.12%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 162,
-    "timeWeek": 138,
-    "timeMonth": 167,
-    "timeYear": 273,
-    "dailyMinutesDown": {}
+    "time": 274,
+    "timeDay": 4923,
+    "timeWeek": 1331,
+    "timeMonth": 474,
+    "timeYear": 297,
+    "dailyMinutesDown": {
+      "2024-10-21": 0
+    }
   },
   {
     "name": "New Media API Service",
@@ -97,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/interactiveoceans.washington.edu.ico",
     "slug": "new-media-api-service",
     "status": "up",
-    "uptime": "68.29%",
+    "uptime": "68.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "68.29%",
+    "uptimeYear": "68.31%",
     "time": 428,
     "timeDay": 399,
     "timeWeek": 623,
@@ -146,11 +148,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/apiws.ooica.net.ico",
     "slug": "realtime-websocket-api-service",
     "status": "up",
-    "uptime": "57.95%",
+    "uptime": "57.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.85%",
+    "uptimeYear": "45.87%",
     "time": 272,
     "timeDay": 386,
     "timeWeek": 288,
@@ -363,17 +365,15 @@
     "slug": "realtime-client-api-service",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 5766,
     "timeWeek": 1976,
     "timeMonth": 860,
     "timeYear": 202,
-    "dailyMinutesDown": {
-      "2024-10-21": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]

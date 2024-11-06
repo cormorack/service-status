@@ -78,19 +78,19 @@
     "url": "https://api.ooica.net/media/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ooica.net.ico",
     "slug": "media-api-service",
-    "status": "degraded",
+    "status": "up",
     "uptime": "95.17%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 7689,
-    "timeWeek": 2013,
-    "timeMonth": 881,
-    "timeYear": 336,
+    "timeDay": 5179,
+    "timeWeek": 1807,
+    "timeMonth": 861,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2024-11-06": 0
+      "2024-11-06": 9
     }
   },
   {

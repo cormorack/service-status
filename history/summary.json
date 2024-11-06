@@ -150,7 +150,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.10%",
+    "uptimeYear": "50.11%",
     "time": 273,
     "timeDay": 129,
     "timeWeek": 212,
@@ -345,19 +345,19 @@
     "url": "https://api.ooica.net/feed/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.ooica.net.ico",
     "slug": "realtime-client-api-service",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 4812,
-    "timeWeek": 1963,
-    "timeMonth": 1270,
+    "timeDay": 3872,
+    "timeWeek": 1794,
+    "timeMonth": 1240,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-11-06": 0
+      "2024-11-06": 6
     }
   }
 ]

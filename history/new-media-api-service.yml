@@ -1,7 +1,7 @@
 url: https://interactiveoceans.washington.edu:8080/media/
-status: down
-code: 500
-responseTime: 2583
-lastUpdated: 2024-11-25T23:04:38.831Z
+status: up
+code: 200
+responseTime: 2700
+lastUpdated: 2024-11-25T23:57:30.698Z
 startTime: 2024-05-08T21:03:25.433Z
 generator: Upptime <https://github.com/upptime/upptime>

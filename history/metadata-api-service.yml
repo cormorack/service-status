@@ -1,7 +1,7 @@
 url: https://api.ooica.net/metadata/status
-status: down
+status: degraded
 code: 503
-responseTime: 170
-lastUpdated: 2025-01-06T23:04:33.410Z
+responseTime: 5246
+lastUpdated: 2025-01-07T21:34:23.784Z
 startTime: 2021-01-07T01:06:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://api.ooica.net/media/
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2025-03-05T23:07:50.223Z
+status: down
+code: 500
+responseTime: 576
+lastUpdated: 2025-03-06T19:05:02.329Z
 startTime: 2021-01-07T01:06:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>

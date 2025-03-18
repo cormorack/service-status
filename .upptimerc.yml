@@ -2,6 +2,13 @@
 owner: cormorack # Your GitHub username
 repo: service-status # Your GitHub repository name
 
+name: Updates CI
+on:
+  schedule:
+    - cron: "* * * * *"
+  repository_dispatch:
+    types: [updates]
+
 # Add your sites here
 sites:
   - name: Interactive Oceans Website

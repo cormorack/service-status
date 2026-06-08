@@ -22,7 +22,6 @@ sites:
     maxResponseTime: 5000
     assignees:
       - sdthomas69
-      - dwinasolihin
       - mvardaro
   - name: Metadata API Service
     url: https://api.ooica.net/metadata/status
@@ -30,30 +29,30 @@ sites:
     assignees:
       - mvardaro
       - sdthomas69
-  - name: Data API Service
-    url: https://api.ooica.net/data/status
-    maxResponseTime: 5000
-    assignees:
-      - mvardaro
-      - sdthomas69
+  #- name: Data API Service
+    #url: https://api.ooica.net/data/status
+    #maxResponseTime: 5000
+    #Eassignees:
+      #- mvardaro
+      #- sdthomas69
   - name: Media API Service
     url: https://api.ooica.net/media/
     maxResponseTime: 5000
     assignees:
-      - mvardaro
+      #- mvardaro
       - sdthomas69
-  - name: Realtime Websocket API Service
-    url: https://apiws.ooica.net/realtime/healthz
-    maxResponseTime: 5000
-    assignees:
-      - mvardaro
-      - sdthomas69
-  - name: Realtime Client API Service
-    url: https://api.ooica.net/feed/status
-    maxResponseTime: 5000
-    assignees:
-      - mvardaro
-      - sdthomas69
+  #- name: Realtime Websocket API Service
+    #url: https://apiws.ooica.net/realtime/healthz
+    #maxResponseTime: 5000
+    #assignees:
+      #- mvardaro
+      #- sdthomas69
+  #- name: Realtime Client API Service
+    #url: https://api.ooica.net/feed/status
+    #maxResponseTime: 5000
+    #assignees:
+      #- mvardaro
+      #- sdthomas69
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

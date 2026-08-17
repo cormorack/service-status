@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ooica.net.ico",
     "slug": "metadata-api-service",
     "status": "up",
-    "uptime": "94.29%",
+    "uptime": "94.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -60,17 +60,19 @@
     "url": "https://api.ooica.net/media/",
     "icon": "https://icons.duckduckgo.com/ip3/api.ooica.net.ico",
     "slug": "media-api-service",
-    "status": "up",
+    "status": "degraded",
     "uptime": "91.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 323,
-    "timeWeek": 400,
-    "timeMonth": 329,
-    "timeYear": 254,
-    "dailyMinutesDown": {}
+    "time": 298,
+    "timeDay": 15220,
+    "timeWeek": 4114,
+    "timeMonth": 1260,
+    "timeYear": 497,
+    "dailyMinutesDown": {
+      "2026-08-17": 0
+    }
   }
 ]

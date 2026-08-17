@@ -1,7 +1,7 @@
 url: https://api.ooica.net/media/
-status: degraded
-code: 503
-responseTime: 30117
-lastUpdated: 2026-08-17T18:41:42.538Z
+status: up
+code: 200
+responseTime: 451
+lastUpdated: 2026-08-17T19:15:11.809Z
 startTime: 2021-01-07T01:06:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>

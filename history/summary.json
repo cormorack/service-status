@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 578,
-    "timeDay": 354,
-    "timeWeek": 452,
-    "timeMonth": 482,
-    "timeYear": 548,
+    "time": 577,
+    "timeDay": 383,
+    "timeWeek": 383,
+    "timeMonth": 447,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2025-10-02": 39
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 305,
-    "timeWeek": 280,
+    "timeDay": 378,
+    "timeWeek": 292,
     "timeMonth": 343,
-    "timeYear": 275,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ooica.net.ico",
     "slug": "metadata-api-service",
     "status": "up",
-    "uptime": "94.39%",
+    "uptime": "94.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 249,
-    "timeWeek": 239,
-    "timeMonth": 243,
-    "timeYear": 244,
+    "timeDay": 247,
+    "timeWeek": 256,
+    "timeMonth": 238,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 320,
-    "timeDay": 487,
-    "timeWeek": 325,
-    "timeMonth": 385,
-    "timeYear": 570,
+    "time": 321,
+    "timeDay": 437,
+    "timeWeek": 350,
+    "timeMonth": 387,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2026-08-17": 34
     }

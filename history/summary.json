@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/interactiveoceans.washington.edu.ico",
     "slug": "interactive-oceans-website",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 577,
-    "timeDay": 358,
-    "timeWeek": 380,
-    "timeMonth": 441,
-    "timeYear": 543,
+    "time": 578,
+    "timeDay": 537,
+    "timeWeek": 407,
+    "timeMonth": 450,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2025-10-02": 39
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 400,
-    "timeWeek": 314,
-    "timeMonth": 349,
-    "timeYear": 277,
+    "timeDay": 273,
+    "timeWeek": 306,
+    "timeMonth": 344,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 264,
-    "timeWeek": 266,
-    "timeMonth": 237,
+    "timeDay": 282,
+    "timeWeek": 264,
+    "timeMonth": 240,
     "timeYear": 243,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 322,
-    "timeDay": 423,
-    "timeWeek": 372,
-    "timeMonth": 387,
-    "timeYear": 574,
+    "time": 323,
+    "timeDay": 403,
+    "timeWeek": 382,
+    "timeMonth": 379,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2026-08-17": 34
     }

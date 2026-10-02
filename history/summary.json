@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 574,
-    "timeDay": 309,
-    "timeWeek": 381,
-    "timeMonth": 473,
-    "timeYear": 544,
-    "dailyMinutesDown": {
-      "2025-10-02": 39
-    }
+    "time": 576,
+    "timeDay": 1234,
+    "timeWeek": 497,
+    "timeMonth": 507,
+    "timeYear": 551,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Interactive Oceans Data Portal",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 254,
-    "timeWeek": 298,
-    "timeMonth": 345,
+    "timeDay": 422,
+    "timeWeek": 323,
+    "timeMonth": 350,
     "timeYear": 280,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 221,
-    "timeWeek": 360,
-    "timeMonth": 270,
+    "timeDay": 348,
+    "timeWeek": 371,
+    "timeMonth": 276,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -61,16 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ooica.net.ico",
     "slug": "media-api-service",
     "status": "up",
-    "uptime": "92.14%",
+    "uptime": "92.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 326,
-    "timeDay": 228,
-    "timeWeek": 343,
-    "timeMonth": 375,
-    "timeYear": 589,
+    "time": 329,
+    "timeDay": 1002,
+    "timeWeek": 443,
+    "timeMonth": 394,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2026-08-17": 34
     }
